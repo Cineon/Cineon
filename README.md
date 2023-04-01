@@ -2,7 +2,7 @@
 ### Hello viewers 👋
 
 
-I am a student at Wyższa Szkoła Bankowa Gdańsk, currently on my fifth semester. I am looking for some <b>internship/job</b> opportunity.
+I am a student at Wyższa Szkoła Bankowa Gdańsk, currently on my sixth semester.
 <p>&nbsp;</p>
 
 
