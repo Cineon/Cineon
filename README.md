@@ -13,7 +13,7 @@ Currently, I am actively developing this platform using a technological stack th
 ### My Experience:
 I have over a year of commercial experience working as an intern for [Oprokom Software House](https://oprokom.com/). During this time, I had the opportunity to work closely under the founder and main contractor, employing Scrum methodologies, contributing to the development of a new version of their custom task management solution called [TaskManagement24](https://www.taskmanagement24.com/#/). My responsibilities encompassed both backend and frontend development, as well as database management utilizing a range of technologies such as: 
 - HTML5, CSS3, Bootstrap, SyncfusionUI
-- TypeScript, Angular
+- Javascipt, TypeScript, Angular
 - ASP.NET WebAPI
 - Microsoft SQL Server & Entity Framework Core
 - Git, Jira, Miro
