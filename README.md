@@ -6,12 +6,17 @@ I'm a Junior Full-stack Web Developer / .NET Developer and Graduate of Computer 
 <p>&nbsp;</p>
 
 ### Currently Working on:
-During the development of my Engineering Thesis I created a prototype of a French language e-learning platform tailored for Polish audience. Since then I cultivated a keen interest in modern e-learning. I am convinced that these platforms can transform the way we acquire knowledge by employing innovative learning strategies such as microlearning and gamification, which foster consistency and enhance engagement in the learning process.  
+- **French language learning app**
+   
+During the development of my Engineering Thesis I created a prototype of a French language e-learning platform based on microlearning and gamification, tailored for Polish audience.
+
+Since then I cultivated a keen interest in modern e-learning. I am convinced that these platforms, benefiting from modern approach to learning, can transform the way we acquire knowledge - fostering consistency and enhancing engagement in the learning process.
+  
 Currently, I am actively developing this platform using a technological stack that includes Microsoft SQL Server, .NET WebAPI, and Angular. My goal is to launch the platform online and publish its source code along with comprehensive documentation upon its completion.
 <p>&nbsp;</p>
 
 ### My Experience:
-I have over a year of commercial experience working as an intern for [Oprokom Software House](https://oprokom.com/). During this time, I had the opportunity to work closely under the founder and main contractor, employing Scrum methodologies, contributing to the development of a new version of their custom task management solution called [TaskManagement24](https://www.taskmanagement24.com/#/). My responsibilities encompassed both backend and frontend development, as well as database management utilizing a range of technologies such as: 
+I have over a year of commercial experience working as an intern for [Oprokom Software House](https://oprokom.com/). During this time, I had the opportunity to work closely under the founder and main contractor, employing Scrum methodologies, contributing to the development of a new version of their custom task management solution called [TaskManagement24](https://www.taskmanagement24.com/#/). My responsibilities encompassed both backend and frontend development, as well as database management, utilizing a range of technologies such as: 
 - HTML5, CSS3, Bootstrap, SyncfusionUI
 - Javascipt, TypeScript, Angular
 - ASP.NET WebAPI
