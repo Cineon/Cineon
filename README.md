@@ -6,7 +6,7 @@ I'm a Junior Full-stack Web Developer / .NET Developer and Graduate of Computer 
 <p>&nbsp;</p>
 
 ### Currently Working on:
-- **French language learning app**
+- **French language learning platform**
    
 During the development of my Engineering Thesis I created a prototype of a French language e-learning platform based on microlearning and gamification, tailored for Polish audience.
 
